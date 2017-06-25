@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TrojanRecipe.iml" filepath="$PROJECT_DIR$/TrojanRecipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trojan_Recipe.iml" filepath="$PROJECT_DIR$/Trojan_Recipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
